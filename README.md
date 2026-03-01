@@ -1,6 +1,7 @@
 # StudyOS
 
 StudyOS is an all-in-one productivity dashboard built specifically for students.
+
 It helps you manage your academic life in one place — from planning and focus sessions to tracking goals and analyzing performance.
 
 ---
@@ -58,7 +59,9 @@ Students often juggle:
 - Productivity challenges
 
 StudyOS brings everything together into one clean, minimal, and distraction-free interface.
+
 No clutter. No unnecessary complexity.
+
 Just productivity.
 
 ---
